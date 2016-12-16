@@ -2,7 +2,7 @@
 
 ## Features
 
-Our application has implemented the following features:
+This application has implemented the following features:
 
 • List all stars that match information input by user, including first name, last name, date of birth, gender, nationality, age, the movie he or she participated, award he or she received, and the year when the award is received;
 
@@ -52,10 +52,13 @@ Our application has implemented the following features:
 
 ER diagram:
 ![ER](/img/ER.png)
+
 Relational diagram:
 ![relational](/img/relational.png)
+
 Sample Table1:
 ![sample1](/img/sampletable1.png)
+
 Sample Table2:
 ![sample2](/img/sampletable2.png)
 
@@ -63,9 +66,12 @@ Sample Table2:
 
 Movie Searching:
 ![movie](/img/moviesearch.png)
+
 Top Movies:
 ![top](/img/topmovie.png)
+
 Star Searching:
 ![star](/img/starsearch.png)
+
 Database Modification:
 ![database](/img/databasemodification.png)
